@@ -216,7 +216,7 @@ class YouTubeAPI:
             "url": url,
             "format": "video" if video else "audio",
             "download": True,
-            "api_key": "mrkey1010"
+            "api_key": "loda0"
         }
         
         async with httpx.AsyncClient() as client:
